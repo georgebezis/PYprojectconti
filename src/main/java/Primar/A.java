@@ -5,7 +5,8 @@ public class A {
     /**
      *
       * @param x face ce vrea el
-     * @return false
+     * @return
+     *
      */
    boolean gigel(int x)
    {
